@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-这是一个纯 Python 编写的、基于多线程的 Web 目录扫描器。作为一个网络安全和 Python 初学者，这是我的第一个从零手敲的实战项目。在此记录完整的开发思路、底层原理解析以及踩坑日记。
+这是一个纯 Python 编写的、基于多线程的 Web 目录扫描器。在此记录完整的开发思路、底层原理解析以及踩坑日记。
 
 ## 免责声明
 
